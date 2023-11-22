@@ -2,7 +2,7 @@
 ## Copyright (c) 2023 TigerPointe Software, LLC
 
 ### Start with VS Code
-* On extensions tab, be sure to install "GitHub Repositories"
+* On the extensions tab, be sure to install "GitHub Repositories"
 * Log into GitHub through VS Code
 * Set a local folder to hold the account repositories
 
