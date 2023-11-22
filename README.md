@@ -30,6 +30,6 @@
 
 ### Notes
 * New repositories default to private (free, but restricted features)
-* Setting type to public makes the code available to anybody
+* Setting visibility to public makes the code available to anybody
 * Visibility can be be changed on GitHub - Settings - Danger Zone
 * On GitHub, add the description and topics
