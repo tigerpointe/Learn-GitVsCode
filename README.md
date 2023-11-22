@@ -1,16 +1,16 @@
-#Learn Git and VS Code
+# Learn Git and VS Code
 ## Copyright (c) 2023 TigerPointe Software, LLC
 
 ### Start
 * On extensions tab, be sure to install "GitHub Repositories"
 * Log into GitHub through VS Code
 
-# Create a Repository
+### Create a Repository
 * Open a new folder in VS Code
 * On source control tab, initialize a new repository
 * (Optional) Set local user account and email from a command shell
 
-# Commit Changes
+### Commit Changes
 * On file tab, add a new file (status is untracked)
 * On source control tab, click "+" to stage changes
 * On source control tab, click "Commit" to commit changes
