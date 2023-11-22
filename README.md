@@ -35,7 +35,7 @@
 * On the source control tab, click "Commit" to commit changes locally
 * Enter a comment into the editor and click the "check mark" icon to close
 * Click the "Cloud" icon initially to push changes to the remote repository
-* For subsequent updates, click the "Sync" button or icon
+* For subsequent updates, click the "Syncronize Changes" button or icon
 
 ### Notes
 * New repositories default to Private (free, but restricted features)
