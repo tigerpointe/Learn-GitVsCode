@@ -9,3 +9,4 @@
 * On source control tab, click "+" to stage changes
 * On source control tab, click "Commit" to commit changes
 * Enter a comment into the editor and click the check mark
+* Click the "Cloud" to push changes to remote GitHub repository
