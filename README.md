@@ -19,11 +19,12 @@
 ### Commit Changes
 * On the file tab, add a new file (status is "U" untracked)
 * On the source control tab, click "+" to stage changes
-* On the source control tab, click "Commit" to commit changes
+* On the source control tab, click "Commit" to commit changes locally
 * Enter a comment into the editor and click the check mark icon
-* Click the "Cloud" icon to initially push to the remote repository
+* Click the "Cloud" icon to initially push changes to the remote repository
 * For subsequent updates, click the "Sync" icon
 
 ### Notes
 * New repositories default to private (free, but restricted features)
 * Setting type to public makes the code available to anybody
+* Visibility can be be changed on GitHub - Settings = Danger Zone
