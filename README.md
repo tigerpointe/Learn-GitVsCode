@@ -32,6 +32,7 @@
     * Select "Open Changes" to compare the changes
     * Select "Open File" to see the current file
     * Select "Open File (HEAD)" to see the original file
+* Open file and click "TIMELINE" in the side-bar for a complete history
 * Changes that have not yet been committed can be discarded ("Undo" icon)
 * On the source control tab, click "+" to stage changes
     * Stage an individual file by clicking the nearest "+"
