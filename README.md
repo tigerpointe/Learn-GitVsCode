@@ -28,6 +28,11 @@
 ### Commit Changes
 * On the file tab, add a new file (status is "U" untracked)
 * In the editor, modify an existing file (status is "M" modified)
+* On the source control tab, right-click on a file ...
+    * Select "Open Changes" to compare the changes
+    * Select "Open File" to see the current file
+    * Select "Open File (HEAD)" to see the original file
+* Changes that have not yet been committed can be discarded ("Undo" icon)
 * On the source control tab, click "+" to stage changes
     * Stage an individual file by clicking the nearest "+"
     * Stage all files by clicking the "Changes" section "+"
