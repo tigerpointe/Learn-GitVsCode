@@ -4,6 +4,7 @@
 ### Start with VS Code
 * On extensions tab, be sure to install "GitHub Repositories"
 * Log into GitHub through VS Code
+* Set a local folder to hold the account repositories
 
 ### Create a New Repository
 * Open a new folder in VS Code
@@ -11,7 +12,7 @@
 * (Optional) Set local user account and email config  from a command shell
 
 ### Clone an Existing Repository
-* Get the ".git" URL from the GitHub repository menu
+* Get the ".git" URL from the GitHub web site repository menu
 * On the source control tab, clone the repository using the URL
 * (Optional) Set local user account and email config  from a command shell
 
@@ -20,7 +21,7 @@
 * On the source control tab, click "+" to stage changes
 * On the source control tab, click "Commit" to commit changes
 * Enter a comment into the editor and click the check mark icon
-* Click the "Cloud" icon to push changes to a remote GitHub repository
+* Click the "Cloud" icon to initially push to the remote repository
 * For subsequent updates, click the "Sync" icon
 
 ### Notes
