@@ -12,7 +12,7 @@
 ### Create a New Repository
 * Open a new folder in VS Code
 * On the source control tab, initialize a new repository
-* (Optional) Set local user account and email config  from a command shell
+* (Optional) Set local user name and email config  from a command shell
     * Change directory to the repository folder (contains ".git" folder)
     * `git config --local user.name jsmith`
     * `git config --local user.email jsmith@sample.com`
@@ -20,7 +20,7 @@
 ### Clone an Existing Repository
 * Get the ".git" URL from the GitHub web site "<> Code" repository menu
 * On the source control tab, clone the repository using the URL
-* (Optional) Set local user account and email config  from a command shell
+* (Optional) Set local user name and email config  from a command shell
     * Change directory to the repository folder (contains ".git" folder)
     * `git config --local user.name jsmith`
     * `git config --local user.email jsmith@sample.com`
